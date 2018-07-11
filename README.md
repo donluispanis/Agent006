@@ -1,2 +1,2 @@
-# apl
-[V1_17] Proyecto de Amstrad CPC de Videojuegos 1 2017/18
+# Agent006
+This repository is a clone from the original repository where Adrián Francés Lillo, Pablo López Iborra and I, Luis González Aracil, worked and developed Agent006.
